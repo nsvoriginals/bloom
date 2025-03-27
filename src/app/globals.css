@@ -1,5 +1,10 @@
 @import "tailwindcss";
 
+@font-face {
+  font-family: 'Jet';
+  src: url('../../public/fonts/jet.ttf') format('truetype');
+}
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
